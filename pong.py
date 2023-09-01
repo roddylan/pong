@@ -1,5 +1,4 @@
 # pong.py
-# Roderick Lan
 # 2 player pong game
 # score goes up to 11, points given to player if ball reaches opposite wall
 # player 1 controls: q up | a down
